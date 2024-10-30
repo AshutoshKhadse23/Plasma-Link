@@ -159,7 +159,7 @@ const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
         user: "plasmalinkweb@gmail.com",
-        pass: "uuyxhqtmvqlqcrze"
+        pass: "---"
     }
 });
 
